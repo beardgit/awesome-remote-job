@@ -1,6 +1,10 @@
 # Awesome Remote Job [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/lukasz-madon/awesome-remote-job/)
 
+
+
 A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecommuting) resources.
+  
+
 
 *To contribute, click README.md and then the pencil icon. Make your changes and click the "Propose file change" button to submit a pull request. Make sure to follow [the contributions guidelines](CONTRIBUTING.md).*
 
@@ -27,10 +31,12 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   - [Communities](#communities)
   - [Conferences](#conferences)
   - [Tools](#tools)
+
       - [HR](#hr)
       - [Communication](#communication)
       - [Project Management](#project-management)
       - [Others](#others)
+
   - [Law \& Finance](#law--finance)
   - [Others](#others-1)
   - [License](#license)
